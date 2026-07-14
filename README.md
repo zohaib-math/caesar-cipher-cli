@@ -43,4 +43,13 @@ cd caesar-cipher-cli/src
 
 # Run the script
 python caesar.py
+```
 
+### Interface
+```text
+Do you want to (E)ncrypt or (D)ecrypt? E
+Enter your text: Hello, World!
+Enter the shift key (1-25): 3
+
+Encrypted text: Khoor, Zruog!
+```
